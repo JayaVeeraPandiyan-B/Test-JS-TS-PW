@@ -33,7 +33,8 @@ the process of identifying and resolving issues in your test suite. (Athavathu a
 ensure the resilience of your application's network interactions.
 
 **Browser Context Management** Explore Playwright's browser context feature, which allows you to save and transfer browser state across your test suite, improving test effiency and 
-reducing the overhead of setting up the same browser state of each test case.
+reducing the overhead of setting up the same browser state of each test case. (Cookies ah capture panikum panitu ovvoru vatiyum first la irunthu pogama saved information la 
+irunthu eduthu execute aagum time saving kaaga)
 
 **Codegen Tool** Discover Playwright's codegen tool, which can generate test code by recording your actions, saving you time and effort in creating initial test cases and providing
 a starting point for further customization.
