@@ -24,4 +24,16 @@ Comprehensive testing across different devices and operating systems.
 **Multilingual Flexibility** Playwright provides language bindings for JS, TS, Java, Python, and C# (.net), allowing you to choose the programming language that best fits your team's
 performance and expertise.
 
+******Playwright's Advanced Features******
 
+**Tracing and Debugging** Leverage Playwright's built-in tracing and debugging capabilities, including automatic screenshots, test video recording and comprehensive logging, to simplify
+the process of identifying and resolving issues in your test suite. (Athavathu automatic SS, test video capturing steps info. log pandrathu ellamey automatic panikum)
+
+**Network Interception** Utilize Playwright's API testing libraries to intercept and validate network calls within your web application, enabling you to test edge case scenarios and
+ensure the resilience of your application's network interactions.
+
+**Browser Context Management** Explore Playwright's browser context feature, which allows you to save and transfer browser state across your test suite, improving test effiency and 
+reducing the overhead of setting up the same browser state of each test case.
+
+**Codegen Tool** Discover Playwright's codegen tool, which can generate test code by recording your actions, saving you time and effort in creating initial test cases and providing
+a starting point for further customization.
