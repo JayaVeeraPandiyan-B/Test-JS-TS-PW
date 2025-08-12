@@ -5,6 +5,16 @@ It provides a single API to automate Chromium, Firefox, and WebKit (including Sa
 **Reliable End-to-End Testing** Playwright's Auto wait capability ensures reliable and stable end-to-end for modern web applications even in the face of dynamic and complex user 
 interactions.
 
+    **list of actionability** https://playwright.dev/docs/actionability
+    
+    * Oru action edukurathuku munnadi Playwright palavithamana actionability checks pannuthu nama enna actions pana nenaikuromo atha correct pandrathukaga
+
+    * Nama enna action pananum nu command kudukuromo athuku munnadi relevent checks pass aagura varaikum intha playwright oda auto-wait helpfull ah irukku
+
+    * Ipo required checks nama kudukura timeout la match or pass aagala na "TimeoutError" nu action fail aagidum
+      For example: locator.click() apdinu nama kudutha playwright oda intha auto-wait moolama element visible ah, stable ah athavathu animate aagitu irukka animation complete
+                    aagidicha innum solla pona elements complete ah load aagura varai, nama related element vera element aala obscured(Maraikapattu) vachi irunthalo, element enabled                          aagura varaikum wait panni ella checks um pannum nama kudutha timeout varai, intha time ulla intha checks la pass aagala na "TimeoutError" nu action fail aagidum,                         ithuvey java/Selenium la nama ellathukum thani thaniya condition poduvom but playwright ithu inbuild ah auto wait la ivlo vela pannuthu.
+
 **Cross-Browser Compatibility** Playwright supports all major browsers including chromium-based (Chrome & Edge) Firefox, Safari (Webkit) and Opera, allowing you to test your web application
 across a wide range of browsers and platforms.
 
@@ -13,3 +23,5 @@ Comprehensive testing across different devices and operating systems.
 
 **Multilingual Flexibility** Playwright provides language bindings for JS, TS, Java, Python, and C# (.net), allowing you to choose the programming language that best fits your team's
 performance and expertise.
+
+
