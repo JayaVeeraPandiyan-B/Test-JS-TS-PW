@@ -1,16 +1,6 @@
-**Node.js**
+**Node.js** Java la Spring boot maari JavaScript ku Node
 
-Node.js is a runtime environment that allows you to run JavaScript outside of a web browser, typically on a server. It is built on Google's V8 JavaScript engine, 
-which makes it fast and efficient.
-
-Key Points:
-
-  * Server-Side JavaScript: Node.js lets you use JavaScript to build server-side applications.
-  * Non-Blocking and Event-Driven: It handles multiple tasks at the same time without waiting for one to finish, making it very fast.
-  * Real-Time Applications: Ideal for building apps like chat platforms, live streaming, or online games.
-  * Cross-Platform: Works on Windows, Mac, and Linux.
-  * NPM (Node Package Manager): Comes with a huge library of pre-built tools and modules to speed up development.
-  * In simple terms, Node.js helps developers create fast, scalable, and efficient applications using JavaScript on the server.
+Node.js is a runtime environment that allows you to run JavaScript outside of a web browser, typically on a server. It is built on Google's V8 JavaScript engine, which makes it fast and efficient.
 
 **Use of Node.js:**
 * Server-Side Development: Node.js is used to build fast and scalable server-side applications. It allows developers to run JavaScript on the server.
