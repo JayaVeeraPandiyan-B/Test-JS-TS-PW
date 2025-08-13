@@ -10,6 +10,9 @@ Shortcuts
 
   * Start Debugging F5
 
+First create a folder for workspace
+File -> Open Folder -> Create folder if required -> Select folder
+
 To create a new Node project click on 
 <img width="189" height="119" alt="image" src="https://github.com/user-attachments/assets/5bf89a11-4d79-4edd-aa4b-156e359a91f4" />
 
@@ -18,5 +21,7 @@ Go to TERMINAL
 
 **Type** "mpm init playwright" next to the path
 
-JavaScript ku Node tha important
+Java ku epdi Spring boot oh athu pola JavaScript ku Node tha important
+
+
 
